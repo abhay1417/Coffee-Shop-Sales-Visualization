@@ -1,0 +1,8 @@
+Pandas-Numpy-Data-Manipulation/
+│── data/
+│    └── coffee_shop_sales.csv
+│── notebooks/
+│    └── pandas_data_manipulation.ipynb
+│── README.md
+│── requirements.txt
+└── .gitignore
